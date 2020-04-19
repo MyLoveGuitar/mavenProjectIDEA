@@ -9,6 +9,7 @@ public class Main {
         skipList.put(2, "2");
         skipList.put(6, "6");
         skipList.put(8, "8");
+        skipList.put(9, "9");
 
         System.out.println(skipList.toString2());
 
